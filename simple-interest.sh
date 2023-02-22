@@ -6,9 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
-
-   # Input:
+   # <JamesBurns1>
    # p, principal amount
    # t, time period in years
    # r, annual rate of interest
